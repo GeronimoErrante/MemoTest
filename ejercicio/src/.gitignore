@@ -1,2 +1,3 @@
-*.json
+masBaneados.json
+masEscuchados.json
 __pycache__
