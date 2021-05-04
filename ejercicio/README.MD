@@ -1,3 +1,10 @@
+Alumno: 
+Errante Gerónimo.
+Legajo: (16576/3)
+
+
+
+
 Datasets utilizados: 
 
 https://www.kaggle.com/leonardopena/top50spotify2019 
@@ -17,6 +24,4 @@ Licencia: CC0: Public Domain.
 
 
 
-Alumno: 
-Errante Gerónimo.
-Legajo: (16576/3)
+
