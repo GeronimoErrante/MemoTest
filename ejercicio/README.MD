@@ -7,4 +7,6 @@ Licencia: No especificada.
 https://www.kaggle.com/chuckephron/leagueoflegends?select=bans.csv
 Licencia: CC0: Public Domain.
 
-ALUMNO: Errante Gerónimo.
+Alumno: 
+Errante Gerónimo.
+Legajo: (16576/3)
