@@ -1,3 +1,2 @@
 # MemoTest
-Nro de alumno (Legajo): 16576/3	
-Nombre Completo: Gerónimo Errante.
+Juego de memoria hecho para la materia Seminario de Lenguajes (Python) de la UNLP Informática.
